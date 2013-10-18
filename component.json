@@ -1,0 +1,13 @@
+{
+  "name": "angularjs",
+  "repo": "components/angular.js",
+  "version": "1.2.0-rc.3",
+  "main": "angular.js",
+  "scripts": [
+    "angular.js"
+  ],
+  "files": [
+    "angular.min.js"
+  ],
+  "license": "MIT"
+}

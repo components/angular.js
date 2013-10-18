@@ -1,0 +1,18 @@
+{
+  "name": "components/angular.js",
+  "description": "Shim repository for Angular.js",
+  "type": "component",
+  "homepage": "http://angularjs.org",
+  "license": "MIT",
+  "extra": {
+    "component": {
+      "name": "angularjs",
+      "scripts": [
+        "angular.js"
+      ],
+      "files": [
+        "angular.min.js"
+      ]
+    }
+  }
+}
