@@ -1,7 +1,7 @@
 {
   "name": "angularjs",
   "repo": "components/angular.js",
-  "version": "1.2.0-rc.3",
+  "version": "1.2.0",
   "main": "angular.js",
   "scripts": [
     "angular.js"
