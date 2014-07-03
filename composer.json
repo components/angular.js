@@ -1,6 +1,5 @@
 {
-  "name": "martinlindhe/angular.js",
-  "version": "1.2.19",
+  "name": "components/angular.js",
   "description": "Shim repository for Angular.js",
   "type": "component",
   "homepage": "http://angularjs.org",
